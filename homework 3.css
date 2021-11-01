@@ -2,7 +2,7 @@
 
 	width: 350px;
 	height: 220px;
-    border: 2px dashed red;
+    border: 2px dashed #000;
     
     margin-bottom: 35px;
 }
@@ -11,7 +11,7 @@
    
     height: 185px;
     margin-top: 15px;
-    margin-left: 10px;
+    margin-left: 15px;
     margin-bottom: 20px;
     margin-right: 10px;
     background-color: green;
@@ -30,7 +30,6 @@
 #block-2 {
     width: 100px;
     height: 100px;
-    background-color:blue ;
 margin-top: 60px;
 margin-left: 60px;
  position: absolute;
